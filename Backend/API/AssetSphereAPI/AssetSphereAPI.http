@@ -1,0 +1,6 @@
+@AssetSphereAPI_HostAddress = http://localhost:5111
+
+GET {{AssetSphereAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
